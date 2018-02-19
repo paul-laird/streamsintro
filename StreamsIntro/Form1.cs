@@ -21,7 +21,7 @@ namespace StreamsIntro
         private void btnOpenFile_Click(object sender, EventArgs e)
         {
             // Lets create a destination backing store stream
-            using (Stream fileStream = new FileStream(@"C:\AdvProg\AdvProg.txt", 
+            using (Stream fileStream = new FileStream(textBox1.Text, 
                                         FileMode.OpenOrCreate))
             {
                 /*
@@ -72,7 +72,7 @@ namespace StreamsIntro
         private void btnReadFile_Click(object sender, EventArgs e)
         {
             // Here we create a source backing store
-            using (Stream fileStream = new FileStream(@"C:\AdvProg\AdvProg.txt", FileMode.Open))
+            using (Stream fileStream = new FileStream(textBox1.Text, FileMode.Open))
             {
                 // First we read a simple byte from the stream...
                 int valueRead = fileStream.ReadByte();

@@ -7,3 +7,13 @@ C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug
 C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.csproj.GenerateResource.Cache
 C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.exe
 C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.pdb
+R:\vs\streamsintro\StreamsIntro\bin\Debug\StreamsIntro.exe.config
+R:\vs\streamsintro\StreamsIntro\bin\Debug\StreamsIntro.exe
+R:\vs\streamsintro\StreamsIntro\bin\Debug\StreamsIntro.pdb
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.csprojResolveAssemblyReference.cache
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.Form1.resources
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.Properties.Resources.resources
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.csproj.GenerateResource.Cache
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.csproj.CoreCompileInputs.cache
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.exe
+R:\vs\streamsintro\StreamsIntro\obj\Debug\StreamsIntro.pdb

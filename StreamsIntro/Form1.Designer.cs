@@ -32,6 +32,7 @@
             this.btnOpenFile = new System.Windows.Forms.Button();
             this.btnReadFile = new System.Windows.Forms.Button();
             this.txtStreamProperties = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // rtbFileContents
@@ -73,11 +74,19 @@
             this.txtStreamProperties.Size = new System.Drawing.Size(284, 83);
             this.txtStreamProperties.TabIndex = 3;
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(30, 162);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(287, 318);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.txtStreamProperties);
             this.Controls.Add(this.btnReadFile);
             this.Controls.Add(this.btnOpenFile);
@@ -95,6 +104,7 @@
         private System.Windows.Forms.Button btnOpenFile;
         private System.Windows.Forms.Button btnReadFile;
         private System.Windows.Forms.TextBox txtStreamProperties;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
