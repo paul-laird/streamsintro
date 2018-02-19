@@ -1,0 +1,9 @@
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\bin\Debug\StreamsIntro.exe.config
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\bin\Debug\StreamsIntro.exe
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\bin\Debug\StreamsIntro.pdb
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.csprojResolveAssemblyReference.cache
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.Form1.resources
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.Properties.Resources.resources
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.csproj.GenerateResource.Cache
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.exe
+C:\Users\Staffas13\Downloads\AdvProg\AdvProg\StreamsIntro\StreamsIntro\obj\Debug\StreamsIntro.pdb
